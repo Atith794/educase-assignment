@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+.lpd{
+  position: absolute;
+  /* background-color:  #F7F8F9; */
+  /* #F7F8F9; */
+  width: 25vw;
+  height: 90vh;
+  border: 5px;
+  border-color: black;
+  left: 38%;
+  top:5%;
+  background: #F7F8F9 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.lpd1{
+  position: absolute;
+  top: 50%;
+  left: 10%;
+}
+
+.lph1{
+  text-align: left;
+  font: normal normal medium 28px/17px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  opacity: 1;
+}
+
+.lpp{
+  color:#1D2226;
+  opacity: 60%;
+  padding-right: 1.5rem;
+  text-align: left;
+  font: normal normal normal 18px/26px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  opacity: 0.6;
+}
+
+.lpb1{
+  background-color: #6C25FF;
+  border:none;
+  width: 90%;
+  height: 46px;
+  color: #FFFFFF;
+  text-align: center;
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+}
+
+.lpb2{
+  background-color: #6C25FF4B;
+  border:none;
+  width: 90%;
+  height: 46px;
+  color: #1D2226;
+  text-align: center;
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font: normal normal medium 16px/17px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  opacity: 1;
+
+}
+
+.lopd{
+  background: #F7F8F9 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.loph1{
+  text-align: left;
+  font: normal normal medium 28px/36px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  opacity: 1;
+}
+
+.lopp1{
+  /* text-align: left; */
+  font: normal normal normal 18px/26px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  opacity: 0.6;
+  /* padding-left: 0.5rem; */
+  
+}
+
+.lopp2{
+  text-align: left;
+  font: normal normal normal 13px/17px Rubik;
+  letter-spacing: 0px;
+  color: #6C25FF;
+  opacity: 1;
+  position: absolute;
+  top:10.5rem ;
+  background-color: white;
+  margin-left: 0.5rem;
+}
+
+.lopi1{
+  border: 1px solid #CBCBCB;
+  border-radius: 6px;
+  opacity: 1;
+  width: 90%;
+  height: 46px;
+  padding-left: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.lopp3{
+  text-align: left;
+  font: normal normal normal 13px/17px Rubik;
+  letter-spacing: 0px;
+  color: #6C25FF;
+  opacity: 1;
+  position: absolute;
+  top:14.5rem ;
+  background-color: white;
+  margin-left: 0.5rem;
+}
+
+.lopi2{
+  border: 1px solid #CBCBCB;
+  border-radius: 6px;
+  opacity: 1;
+  width: 90%;
+  height: 46px;
+  padding-left: 0.5rem;
+}
+
+.lopbtn{
+  background: #CBCBCB 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  width: 93%;
+  height: 46px;
+  margin-top: 1.5rem;
+  border: none;
+  text-align: center;
+  font: normal normal medium 16px/17px Rubik;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.lopd1{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.ppd2{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000007;
+  opacity: 1; 
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin-bottom: 1.5rem;
+}
+
+.pph2{
+  text-align: left;
+  font: normal normal normal 18px/21px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.ppimg{
+  width: 76px;
+  height: 76px;
+  background: transparent;
+  opacity: 1;
+}
+
+.ppd3{
+  margin-top: 5.5rem;
+  /* border-radius: 50%; */
+  display: flex;
+  padding-left: 1rem;
+}
+
+.ppimg{
+  border-radius: 50%;
+}
+
+.ppd3d1{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left:0.8rem;
+}
+
+.ppp1{
+  margin:0.1rem;
+  
+  text-align: left;
+  font: normal normal medium 15px/19px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.ppp2{
+  /* text-align: left; */
+  font: normal normal normal 14px/19px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.ppp3{
+  text-align: left;
+  font: normal normal normal 14px/22px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  text-transform: capitalize;
+  opacity: 1;
+  padding: 1rem;
+}
+
+hr {
+  border: none;
+  border-top: 1px dashed #CBCBCB;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 100%;
+}
+
+.suh1{
+  text-align: left;
+  font: normal normal medium 28px/36px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+  opacity: 1;
+}
+
+span{
+  color: red;
+}
+
+.sup1,.sup2,.sup3,.sup4,.sup5{
+  text-align: left;
+  font: normal normal normal 13px/17px Rubik;
+  letter-spacing: 0px;
+  opacity: 1;
+  color: #6C25FF;
+}
+
+.sud1{
+  padding: 1.5rem;
+}
+
+.sup6{
+  text-align: left;
+  font: normal normal normal 13px/17px Rubik;
+  letter-spacing: 0px;
+  color: #1D2226;
+}
+
+.susp1{
+  color: #1D2226;
+}
+
+.sui1{
+  border: 1px solid #CBCBCB;
+  border-radius: 6px;
+  opacity: 1;
+  width: 95%;
+  height: 36px;
+  padding-left: 0.5rem;
+  margin-bottom: 0.1rem;
+}
+
+.subtn{
+  background: #6C25FF 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  width: 93%;
+  height: 46px;
+  margin-top: 1.5rem;
+  border: none;
+  text-align: center;
+  font: normal normal medium 16px/17px Rubik;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
